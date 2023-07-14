@@ -8,5 +8,5 @@ Quick Password Generator App provides a random password up to 64 characters. Can
 
 # Demo
 
-[Quick-Password-Generator Demo]()
+[Quick-Password-Generator Demo](https://quick-password-generator-impranav.netlify.app/)
 
